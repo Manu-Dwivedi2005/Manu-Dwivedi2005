@@ -27,4 +27,4 @@ I'm a passionate developer with a strong foundation in Java and web technologies
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manudwivedi-/)
 
 ---
-⭐️ From [YOUR_GITHUB_USERNAME](https://github.com/Manu-Dwivedi2005)
+⭐️ From Manu-Dwivedi2005(https://github.com/Manu-Dwivedi2005)
