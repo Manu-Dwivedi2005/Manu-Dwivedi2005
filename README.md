@@ -1,5 +1,12 @@
-# 💫 About Me: 
-🚀 Aspiring Web Developer | 💻 DSA Enthusiast<br>🔨 Currently learning Frontend Development & leveling up my Data Structures & Algorithms skills!<br><br>🌱 What I'm working on:<br>Building cool web projects with HTML, CSS, and JavaScript 🛠️<br><br>Exploring React.js ⚛️<br><br>Sharpening my problem-solving skills with DSA challenges 🧠✨<br><br>🎯 Goals for 2025:<br>Become a Full-Stack Web Developer 🌐<br><br>Master Data Structures & Algorithms like a pro 📚💡<br><br>Contribute to Open Source projects 🤝<br><br>⚡ Fun facts:<br>I love learning new tech & tools 🧑‍💻<br><br>Always up for a coding challenge! 💪<br><br>Coffee + Code = ❤️ ☕👨‍💻<br><br>
+# 👋 Hello, I'm Manu Dwivedi! 
+#🚀 Learning Web Development
+#💻 Enhancing my DSA skills
+
+#🌱 Currently exploring HTML, CSS, JavaScript, and React ⚛️
+#🎯 Goal: Become a Full-Stack Developer & crack DSA like a pro!
+
+
+
 
 
 ## 🌐 Socials:
